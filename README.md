@@ -7,6 +7,10 @@ This is a simple React app that allows users to increment and decrement a counte
 - Increment button: Increases the counter value by 1, up to a maximum of 100.
 - Decrement button: Decreases the counter value by 1, down to a minimum of 0.
 
+## Preview
+
+[Project Preview](https://numtally.netlify.app/)
+
 ## Usage
 
 1. Clone the repository.
