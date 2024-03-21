@@ -8,6 +8,9 @@ This React component displays a collection of models using a visually appealing 
 - **Customizable:** Easily customize the appearance to fit your project's theme.
 - **Interactive UI:** Hover effects and a clear call-to-action button enhance user experience.
 
+## Preview
+Demo : [simple cards](https://modelinfocards.netlify.app/)
+
 ## Getting Started
 
 To integrate the Models Card Component into your project, follow these simple steps:
