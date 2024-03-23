@@ -38,7 +38,7 @@ If you want to contribute to the password generator, you can submit a pull reque
 
 ## Author
 
-This project was created by [Your Name](#).
+This project was created by [Muhammad Zahid](#).
 
 ## License
 
