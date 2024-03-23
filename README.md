@@ -13,8 +13,7 @@ Description: The Model Data Card component is a reusable card that displays a ti
 
 Code: [Simple Cards](../../tree/Card)
 
-# SecretForge
-
-This is a simple password generator that generates random passwords. The user can specify the length of the password and whether it should include numbers and/or special characters.
+### SecretForge
+Description: This is a simple password generator that generates random passwords. The user can specify the length of the password and whether it should include numbers and/or special characters.
 
 Code: [Simple Cards](../../tree/Password-Generator)
