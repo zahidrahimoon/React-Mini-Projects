@@ -1,10 +1,10 @@
-# Password Generator
+# SecretForge
 
 This is a simple password generator that generates random passwords. The user can specify the length of the password and whether it should include numbers and/or special characters.
 
 ## Demo
 
-You can check out a demo of the password generator [here](#).
+You can check out a demo of the password generator [here](https://secretforge.netlify.app/).
 
 ## Usage
 
