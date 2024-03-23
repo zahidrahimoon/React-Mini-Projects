@@ -11,8 +11,8 @@ You can check out a demo of the password generator [here](#).
 1. Clone the repository and install the dependencies:
 
    ```bash
-   git clone https://github.com/your-username/your-password-generator.git
-   cd your-password-generator
+   git clone https://github.com/zahidrahimoon/React-Mini-Projects.git
+   cd my-project
    npm install
    ```
 
