@@ -17,10 +17,10 @@ Code: [Simple Cards](../../tree/Card)
 ### SecretForge
 Description: This is a simple password generator that generates random passwords. The user can specify the length of the password and whether it should include numbers and/or special characters...
 
-Code: [Simple Cards](../../tree/Password-Generator)
+Code: [Simple password generator](../../tree/Password-Generator)
 
 ### Chromatic Switch
 
 Description: A simple React app that allows you to change the background color by clicking on buttons.
 
-Code: [Simple Cards](../../tree/Colorchanger)
+Code: [Simple color changer](../../tree/Colorchanger)
