@@ -9,7 +9,7 @@ This React component (`Card.js`) fetches random user data from the [Random User 
 - Allows user to fetch a new random user on button click.
 
 ### DEMO
- - Demo : [Simple Profile Card](#)
+ - Demo : [Simple Profile Card](https://profileinfothroughapi.netlify.app/)
 ## Installation
 
 1. Clone the repository:
