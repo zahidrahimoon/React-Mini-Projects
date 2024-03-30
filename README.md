@@ -21,7 +21,7 @@ Code: [Simple password generator](../../tree/Password-Generator)
 
 ### Chromatic Switch
 
-Description: A simple React app that allows you to change the background color by clicking on buttons.....
+Description: A simple React app that allows you to change the background color by clicking on buttons.
 
 Code: [Simple color changer](../../tree/Colorchanger)
 
