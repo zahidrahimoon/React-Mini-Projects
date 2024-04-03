@@ -25,10 +25,14 @@ Description: A simple React app that allows you to change the background color b
 
 Code: [Simple color changer](../../tree/Colorchanger)
 
-To create a README file for the `Card` component, you can describe what the component does, how to use it, and any other relevant information. Here's a basic template:
-
 ### Random User Card Component
 
 Description: This React component (`Card.js`) fetches random user data from the [Random User API](https://randomuser.me/) and displays it in a card format.
 
 Code: [Simple Profile changer Component through Api](../../tree/Profile-Api)
+
+### Dictionary Api
+
+Description : This react project is simpw is build by reactj and css with random dictionary api
+
+Code: [Simple color changer](../../tree/DictionaryApi)
