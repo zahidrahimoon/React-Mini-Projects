@@ -8,6 +8,9 @@ This is a simple dictionary app built with React. It allows users to search for 
 - Display word's part of speech, phonetic pronunciation, definition, and example usage
 - Responsive design
 
+## DEMO 
+ - Simple Dictionary [DictionaryApi](https://dictionaryrandomapi.netlify.app/)
+
 ## Technologies Used
 
 - React.js
