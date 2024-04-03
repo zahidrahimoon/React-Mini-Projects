@@ -33,6 +33,6 @@ Code: [Simple Profile changer Component through Api](../../tree/Profile-Api)
 
 ### Dictionary Api
 
-Description : This react project is simpw is build by reactj and css with random dictionary api
+Description : This react project is simpw is build by reactjs and css with random dictionary api
 
 Code: [Simple color changer](../../tree/DictionaryApi)
