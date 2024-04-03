@@ -17,7 +17,7 @@ This is a simple dictionary app built with React. It allows users to search for 
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/dictionary-app.git`
+1. Clone the repository: `git clone https://github.com/zahidrahimoon/React-Mini-Projects.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open your browser and go to `http://localhost:3000`
