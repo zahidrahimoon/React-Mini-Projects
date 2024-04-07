@@ -36,3 +36,9 @@ Code: [Simple Profile changer Component through Api](../../tree/Profile-Api)
 Description : This react project is simpw is build by reactjs and css with random dictionary api
 
 Code: [Simple color changer](../../tree/DictionaryApi)
+
+### React Todo App with Local Storage
+
+This is a simple Todo application built with React and styled with Tailwind CSS. It allows users to add, remove, and mark todos as completed. The app uses local storage to persist the todos, so they remain even after the page is refreshed.
+
+Code: [Simple todo app](../../tree/TODOAPP)
