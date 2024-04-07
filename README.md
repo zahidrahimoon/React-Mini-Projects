@@ -1,8 +1,26 @@
-# React + Vite
+# React Todo App with Local Storage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Todo application built with React and styled with Tailwind CSS. It allows users to add, remove, and mark todos as completed. The app uses local storage to persist the todos, so they remain even after the page is refreshed.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add a new todo
+- Mark a todo as completed
+- Remove a todo
+- Todos are saved in local storage
+
+## Technologies Used
+
+- React
+- Tailwind CSS
+- Local Storage
+
+## How to Use
+
+- **Add Todo**: Enter a todo in the input field and press Enter or click the "Add Todo" button.
+- **Mark Todo as Completed**: Click on the checkbox next to a todo to mark it as completed.
+- **Remove Todo**: Click on the trash icon next to a todo to remove it.
+
+## Demo
+
+[Todo App Demo](https://mytodosapplocal.netlify.app/)
